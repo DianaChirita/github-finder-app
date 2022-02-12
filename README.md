@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Github finder app
 
 This project was built based on "React Front To Back 2022" course on Udemy.
 
